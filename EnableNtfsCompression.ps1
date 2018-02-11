@@ -1,8 +1,8 @@
-﻿#Enables NTFS Compression on diffrent Paths
-#Hint: Run as schduled Task. Otherwise new files will not get compressed
-#V1.0 Create Skript Stefan Buechler 10.02.2018
+﻿# Enables NTFS Compression on diffrent Paths
+# Hint: Run as schduled Task. Otherwise new files will not get compressed
+# V1.0 Create Skript Stefan Buechler 10.02.2018
 
-#Paths
+# Paths
 $Path1 = "D:\Data\Backup"
 $Path2 = "D:\Data\Dokumente\BBFN"
 $Path3 = "D:\Data\Dokumente\Buchhaltung"
