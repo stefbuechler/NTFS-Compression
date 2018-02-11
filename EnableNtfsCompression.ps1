@@ -1,5 +1,5 @@
 ﻿#Enables NTFS Compression on diffrent Paths
-#Hint: Run as schduled Task. Otherwiese new files will not get compressed
+#Hint: Run as schduled Task. Otherwise new files will not get compressed
 #V1.0 Create Skript Stefan Buechler 10.02.2018
 
 #Paths
