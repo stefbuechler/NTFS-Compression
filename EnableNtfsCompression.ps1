@@ -2,9 +2,6 @@
 #Hint: Run as schduled Task. Otherwiese new files will not get compressed
 #V1.0 Create Skript Stefan Buechler 10.02.2018
 
-#Variables
-$CurrentPath = 0
-
 #Paths
 $Path1 = "D:\Data\Backup"
 $Path2 = "D:\Data\Dokumente\BBFN"
