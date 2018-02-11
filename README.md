@@ -1,2 +1,2 @@
 # NTFS-Compression
-Enables NTFS compression on differnet paths.
+Enables NTFS compression on different paths.
